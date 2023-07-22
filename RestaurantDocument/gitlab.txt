@@ -1,0 +1,17 @@
+
+RestaurantClient:
+https://gitlab.com/tanltse162046/restaurantclient/-/tree/tan?ref_type=heads
+
+RestaurantServer
+https://gitlab.com/group-msi/restaurantBE/-/tree/Quan?ref_type=heads
+
+
+
+GROUP4
+Member:
+
+Lê Trung Tấn
+Nguyễn Công Khanh
+Hồ Hồng Quân
+Nguyễn Gia Huy
+Tôn Thất Hoàng Trí
